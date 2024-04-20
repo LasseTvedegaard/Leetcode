@@ -22,6 +22,12 @@ namespace TestFlow2 {
             Console.WriteLine($"Input: {s3}");
             Console.WriteLine($"Output: {solution.LengthOfLongestSubstring(s3)}");
             Console.WriteLine();
+
+            // Test case 4
+            string s4 = "lasse";
+            Console.WriteLine($"Input: {s4}");
+            Console.WriteLine($"Output: {solution.LengthOfLongestSubstring(s4)}");
+            Console.WriteLine();
         }
     }
 
