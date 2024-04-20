@@ -1,5 +1,5 @@
 ﻿namespace TestFlow {
-    internal class Program {
+    public class Program {
         static void Main(string[] args) {
             int[] nums = { 2, 7, 3, 9, 8 };
             int target = 10;

@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{2142A930-178E-4747-B3F3-43C37DE0C8B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Sum", "Two Sum\Two Sum.csproj", "{2142A930-178E-4747-B3F3-43C37DE0C8B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFlow", "TestFlow\TestFlow.csproj", "{64B31056-B121-4340-9774-21125A1EEC47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestFlow", "TestFlow\TestFlow.csproj", "{64B31056-B121-4340-9774-21125A1EEC47}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwoSum", "TwoSum", "{40F90C76-64D8-484B-85B3-839EF9642D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeFlow", "PracticeFlow\PracticeFlow.csproj", "{EEF4B7C2-BD26-45BD-94C4-B281C322C806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{64B31056-B121-4340-9774-21125A1EEC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64B31056-B121-4340-9774-21125A1EEC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64B31056-B121-4340-9774-21125A1EEC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF4B7C2-BD26-45BD-94C4-B281C322C806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF4B7C2-BD26-45BD-94C4-B281C322C806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF4B7C2-BD26-45BD-94C4-B281C322C806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF4B7C2-BD26-45BD-94C4-B281C322C806}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
