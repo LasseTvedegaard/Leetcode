@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestFlow2", "TestFlow2\TestFlow2.csproj", "{7AAB571D-71B4-42B8-B613-85A032FD267D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RemoveDuplicatesfromSortedArray", "RemoveDuplicatesfromSortedArray", "{DD00C648-9C8A-4312-B531-54DF5BC2F7A2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Remove Duplicates from Sorted Array", "Remove Duplicates from Sorted Array", "{DD00C648-9C8A-4312-B531-54DF5BC2F7A2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesfromSortedArray", "RemoveDuplicatesfromSortedArray\RemoveDuplicatesfromSortedArray.csproj", "{DDDEB522-7A0D-4535-ABAA-9598A8691F9E}"
 EndProject
